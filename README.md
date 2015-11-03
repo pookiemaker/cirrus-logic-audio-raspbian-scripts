@@ -16,3 +16,10 @@ Check output by seeing 5 wave files created
 #pyaudiotest.py
 Example showing how to use pyaudio with the cirrus card.  These are provided as I the data is spread out. 
 Check output by plot poping up. You have to close the plot. I have not put multiprocessing in to take care of that
+
+#alsaaudio.py
+Very similar to other tests, but used alsaaudio driver. Success is tested by looking at console for typical samled python numpy array ' [ 0. 0. 0. ..., 19. 19. 40.] the values are random
+
+
+#Notes on cirrus card. 
+I have not checked it for response characteristics, but I will be doing so with some test equipment. As it was purchased for the superwide bandwidth and high sample rate. I have only tested it that it records and plays back from/into the headset. I will be updating that here. 
