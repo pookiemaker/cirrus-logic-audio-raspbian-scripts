@@ -6,7 +6,7 @@ Test Configuration
 * wheezy
 * Kernel patched with tar method. The method is detailed here.  http://www.element14.com/community/thread/42202/l/cirrus-logic-audio-card-working-on-the-raspberry-pi-2?displayFullThread=true
 * * specifically: http://www.element14.com/community/message/145591/l/re-cirrus-logic-audio-card-working-on-the-raspberry-pi-2#145591
-* another option: https://github.com/CirrusLogic/rpi-linux/wiki/Building-the-code
+* <i> Untested option</i>: https://github.com/CirrusLogic/rpi-linux/wiki/Building-the-code
 
 # Record_from_Headset.sh
 Script that comes with cirrus logic audio board for rpi2 (square form factor). This is required to send the magic values to the wolfson chip to setup the device for recording from the headset connector
