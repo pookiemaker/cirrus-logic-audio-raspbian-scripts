@@ -11,6 +11,8 @@ Script that comes with cirrus logic audio board for rpi2 (square form factor). T
 
 # timer_record.py 
 Simple example to show how to setup a series of time recordings with signed 32bit, 44100khz dual channel recording.. But the jack only has a single channel for recording. Each recording is 5 seconds. The filenames are timestamped for ease of sorting. 
+Check output by seeing 5 wave files created
 
 #pyaudiotest.py
 Example showing how to use pyaudio with the cirrus card.  These are provided as I the data is spread out. 
+Check output by plot poping up. You have to close the plot. I have not put multiprocessing in to take care of that
