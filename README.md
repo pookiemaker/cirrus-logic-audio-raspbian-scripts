@@ -25,3 +25,6 @@ Very similar to other tests, but used alsaaudio driver. Success is tested by loo
 
 ###Notes on cirrus card. 
 I have not checked it for response characteristics, but I will be doing so with some test equipment. As it was purchased for the superwide bandwidth and high sample rate. I have only tested it that it records and plays back from/into the headset. I will be updating that here. 
+
+### link
+* http://www.element14.com/community/community/raspberry-pi/raspberry-pi-accessories/wolfson_pi/blog/2014/08/17/wolfson-audio-paths-how-to-use-eq-and-lhpf filtering
