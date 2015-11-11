@@ -4,6 +4,10 @@
 * 32GB class 10 card
 * cirrus logic audio card (new square version)
 * wheezy
+* 
+## Try 2
+* https://stmllr.net/blog/cirrus-logic-audio-card-on-raspberry-pi2-with-debian-jessie/
+## this didnt work
 * Kernel patched with tar method. The method is detailed here.  http://www.element14.com/community/thread/42202/l/cirrus-logic-audio-card-working-on-the-raspberry-pi-2?displayFullThread=true
 * * specifically: http://www.element14.com/community/message/145591/l/re-cirrus-logic-audio-card-working-on-the-raspberry-pi-2#145591
 * <i> Untested option</i>: https://github.com/CirrusLogic/rpi-linux/wiki/Building-the-code
