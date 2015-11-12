@@ -5,6 +5,9 @@
 * cirrus logic audio card (new square version)
 * wheezy
 * 
+## Try 3
+* I have one working, but I need to get all the directions correct. None of all these are correct
+
 ## Try 2
 * https://stmllr.net/blog/cirrus-logic-audio-card-on-raspberry-pi2-with-debian-jessie/
 ## this didnt work
