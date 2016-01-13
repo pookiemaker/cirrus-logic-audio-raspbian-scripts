@@ -4,7 +4,16 @@
 * 32GB class 10 card
 * cirrus logic audio card (new square version)
 * wheezy
-* 
+* <B> SUCCESS </B> https://github.com/CirrusLogic/rpi-linux/wiki/Building-the-code  -- These buried instructions worked
+** aplay -l showed cirrus card
+** Configuration #1  Rpi2, wheezy as downloaded from raspberrypi.org -- not updated. 
+** Configuration #2  Rpi2, Jessie -- first try fail, suspect typo. It takes a while. 
+** I will post a copy of the image. I have to figure out how to compress it. My SD card was kind of big. 
+
+## Tests to be completed
+* Verify all stock scripts run properly
+* Verify all pookiemaker scripts run
+
 ## Try 3
 * I have one working, but I need to get all the directions correct. None of all these are correct
 
